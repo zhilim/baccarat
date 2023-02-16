@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto&display=swap');
+
+
+
+body {
+  margin: 0;
+  font-family: Merriweather, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.5em;
+  text-align: center;
+  background: rgb(55,55,55);
+  color:aliceblue;
+}
+
+
+
+
+
+/* background: rgb(55, 55, 55);*/
+
